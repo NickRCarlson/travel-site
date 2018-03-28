@@ -1,7 +1,9 @@
 .wrapper {
-    padding: 0 18px;
+    padding-left: 18px;
+    padding-right: 18px;
     max-width: 1200px;
     margin: 0 auto;
+    overflow: hidden;
 
     &--medium {
         max-width: 976px;
