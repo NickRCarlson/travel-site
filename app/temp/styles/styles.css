@@ -1107,7 +1107,7 @@ Instead edit gulp/templates/sprite */
     position: absolute;
     width: 100%;
     z-index: 2;
-    background-color: rgba(#2f5572, .3);
+    background-color: rgba(47,85,114, .3);
   }
 
 .site-header__btn-container {
